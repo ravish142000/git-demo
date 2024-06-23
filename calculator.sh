@@ -1,1 +1,1 @@
-echo "hello"
+x=a+b
